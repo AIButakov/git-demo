@@ -2,7 +2,7 @@ header
 
 hello world!
 
-new feature
+new feature fix
 
 update text. END.
 
