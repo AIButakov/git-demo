@@ -2,6 +2,8 @@ header
 
 hello world!
 
+new feature
+
 update text. END.
 
 Show GIT PUSH command.
