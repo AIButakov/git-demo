@@ -4,6 +4,8 @@ hello world!
 
 new feature fix
 
+add new functional two
+
 update text. END.
 
 Show GIT PUSH command.
